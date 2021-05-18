@@ -65,4 +65,8 @@ pip install -e .
 build your own package commands- 
 ```bash
 python setup.py sdist bdist_wheel
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 52ae72312a39df65cc4266f7fd38f1debaf54be8
